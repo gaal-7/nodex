@@ -1,0 +1,34 @@
+{
+"experiencia_laboral": [
+  {
+    "empresa": "Farmacias Similares",
+    "cargo": "Botarga",
+    "periodo": "Mayo 2023 - Agosto 2023",
+    "logros": [
+      "Realicé bailes que motivaban a los clientes a comprar",
+      "Regalé paletas a niños que iban pasando.",
+      "Participé en la creación de un modelo de predicción de ventas que aumentó la precisión en un 100%."
+    ]
+  },
+    {
+      "empresa": "ABC Company",
+      "cargo": "Desarrollador de Software",
+      "periodo": "Enero 2018 - Presente",
+      "logros": [
+        "Desarrollé y mantuve aplicaciones web utilizando tecnologías modernas como React y Node.js.",
+        "Participé en la implementación de un sistema de gestión de pedidos que mejoró la eficiencia en un 20%.",
+        "Colaboré en la migración de la infraestructura de servidores a la nube, reduciendo costos operativos en un 15%."
+      ]
+    },
+    {
+      "empresa": "XYZ Startup",
+      "cargo": "Analista de Datos",
+      "periodo": "Mayo 2016 - Diciembre 2017",
+      "logros": [
+        "Realicé análisis de datos que ayudaron a la empresa a tomar decisiones estratégicas en el lanzamiento de nuevos productos.",
+        "Diseñé y automatizé informes de rendimiento que permitieron un seguimiento más eficiente de las métricas clave.",
+        "Participé en la creación de un modelo de predicción de ventas que aumentó la precisión en un 10%."
+      ]
+    }
+  ]
+}

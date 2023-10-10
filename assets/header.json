@@ -1,0 +1,13 @@
+{
+  "name"  : "Omar",
+  "email" : "2omarherandez2@gmail.com",
+  "tittle" : "Abogado",
+  "obje" : "pasarse capitulo 9 de celeste",
+  "cel"   : "(272)281 1767",
+  "foto"   : "https://firebasestorage.googleapis.com/v0/b/mycv-omar.appspot.com/o/elon-musk-kissing-andres.png?alt=media&token=dda4cb83-2df4-457b-acad-ddc63d83e676",
+  "location": "Veracruz, México",
+  "social": {
+    "face": "^2.8.5",
+    "x": "^4.18.2"
+  }
+}
